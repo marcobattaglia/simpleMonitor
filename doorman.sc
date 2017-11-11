@@ -1,5 +1,5 @@
 import $ivy.{
-  `org.scalikejdbc::scalikejdbc:3.0.0`,
+  `org.scalikejdbc:scalikejdbc_2.10:3.2.0-SNAPSHOT`,
   `ch.qos.logback:logback-classic:1.2.3`,
   `mysql:mysql-connector-java:5.1.6`,
   `com.opencsv:opencsv:3.8`
